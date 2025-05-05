@@ -6,3 +6,4 @@ Um projeto simples para gerir uma lista de tarefas.
 - [ ] Limpar o quarto
 - [ ] Fazer exercício
 - [ ] Ler um livro
+- [ ] Ir à praia
